@@ -16,3 +16,10 @@ The Fabric MCP server provides the following capabilities:
 - **Tasks:** Create, edit, delete, and list tasks to track your work
 
 - **Organization:** Rename, move, tag, and apply labels to keep your workspace structured
+
+---
+
+## Quick links
+
+- Listing in official [Model Context Protocol Registry](https://registry.modelcontextprotocol.io/v0.1/servers/so.fabric%2Fmcp/versions/0.1.0)
+- Available via [Smithery](https://smithery.ai/servers/fabric/fabric-mcp)
