@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "fabric": {
+      "url": "https://mcp.api.fabric.so/mcp"
+    }
+  }
+}

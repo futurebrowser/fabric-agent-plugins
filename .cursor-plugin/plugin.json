@@ -1,0 +1,11 @@
+{
+  "name": "fabric-workspace",
+  "version": "0.1.0",
+  "description": "Fabric MCP server plugin. Create, manage, and search your notes, bookmarks, tasks, and memories through MCP tools.",
+  "author": {
+    "name": "Fabric",
+    "email": "support@fabric.so"
+  },
+  "logo": "assets/logo.svg",
+  "keywords": ["fabric", "productivity", "notes", "bookmarks", "tasks", "memory", "mcp"]
+}
