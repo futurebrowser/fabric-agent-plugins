@@ -13,17 +13,20 @@
     "fabric",
     "productivity",
     "collaboration",
-    "notes",
-    "docs",
+    "save notes",
+    "store files",
+    "pdf storage",
+    "todo tasks",
+    "create docs",
     "wiki",
     "projects",
-    "pdfs",
     "photos",
     "knowledge management",
-    "file storage",
     "bookmarks",
     "voice recordings",
-    "meeting transcripts"
+    "meeting transcripts",
+    "tool access control",
+    "long-term memory"
   ],
   "extensions": {
     "com.openai": {
